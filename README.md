@@ -7,3 +7,7 @@
 - mark items already in the list
 - async/await instead of promises
 - typescript
+— replace icons (close, settings)
+
+# FIX
+— adding movie by unlogged user flow
